@@ -1,0 +1,57 @@
+body {
+	background-image: url(../images/starwarsBackdrop.jpg);
+}
+
+#title {
+    color: black;
+    font-family: "Lucida Sans Unicode";
+    text-align: center;
+    font-size: 46px;
+}
+
+#allies {
+    color: white;
+}
+
+img {
+    width: 100px;
+}
+
+figure {
+    width: 100px;
+    display: inline-block;
+}
+
+figcaption {
+    color: white;
+}
+
+#allyPlayer {
+    margin-top: 50px;
+    margin-left: 0px;
+}
+
+#enemyPlayer {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+#stats {
+    height: 200px;
+    width: 200px;
+    background-color: white;
+}
+
+h2 {
+ color: white;
+}
+
+#buttonDiv {
+    text-align: center;
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px;
+}
+
